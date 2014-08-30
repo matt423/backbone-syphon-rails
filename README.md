@@ -1,10 +1,10 @@
 # Backbone::Syphon::Rails for Rails
 
-It is a wrapper for [Backbone.Syphon](https://github.com/derickbailey/backbone.syphon) plugin for [Backbone](https://github.com/documentcloud/backbone/)
-## Verstion
+It is a wrapper for [Backbone.Syphon](https://github.com/marionettejs/backbone.syphon) plugin for [Backbone](https://github.com/jashkenas/backbone/)
+## Version
 The version of this gem follows that of the associated Backbone.Syphon version
 
-Current version is **0.4.1**
+Current version is **0.5**
 ## Installation
 
 Add this line to your application's Gemfile:
